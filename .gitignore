@@ -33,8 +33,8 @@ _WAF_/user_settings.options
 __pycache__/*
 
 # Might contain a license key, so don't add it to a repo.
-/Code/Tools/waf-1.7.13/recode.lic
-/recode.lic
+#/Code/Tools/waf-1.7.13/recode.lic
+#/recode.lic
 
 # These are handled elsewhere.
-/Code/SDKs/*
+#/Code/SDKs/*
